@@ -1,3 +1,4 @@
+<img width="1919" height="167" alt="Screenshot 2026-08-06 234923" src="https://github.com/user-attachments/assets/9fdc3793-45ed-40b0-930a-cbe4a12868fe" />
 # linux-Assingment-4
 
 # ✏️ OT Text Editor Utility
@@ -20,7 +21,7 @@ A simple Bash-based text editor utility to perform file operations like adding l
   ```bash
   chmod +x otTextEditor.sh
 
-yha par command ke satha image aya ge
+<img width="1919" height="167" alt="Screenshot 2026-08-06 234923" src="https://github.com/user-attachments/assets/9fdc3793-45ed-40b0-930a-cbe4a12868fe" />
 
 
 # 📌 Usage
