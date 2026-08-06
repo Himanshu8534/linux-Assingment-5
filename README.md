@@ -49,6 +49,7 @@ A simple Bash-based text editor utility to perform file operations like adding l
 
 # 📂 Output After Execution
 
-is ka opuput ke photo hoge
+<img width="1909" height="291" alt="Screenshot 2026-08-07 002126" src="https://github.com/user-attachments/assets/a377b2ac-31e5-4ecf-bf0a-7ed00dc8af56" />
+
 
 
