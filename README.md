@@ -17,8 +17,7 @@ A simple Bash-based text editor utility to perform file operations like adding l
 
   ## ⚙️ Setup
 
-  ```bash
-chmod +x otTextEditor.sh
+  ```bashchmod +x otTextEditor.sh
 
 yha par command ke satha image aya ge
 
