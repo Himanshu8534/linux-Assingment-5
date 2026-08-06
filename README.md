@@ -32,22 +32,6 @@ A simple Bash-based text editor utility to perform file operations like adding l
 
 <img width="1280" height="177" alt="Screenshot 2026-08-06 235122" src="https://github.com/user-attachments/assets/9afdaf60-a981-4acd-a57e-a0345a8bc99d" />
 
-'''bash
-./otTextEditor.sh addLineTop <file> <line>
-
-./otTextEditor.sh addLineBottom <file> <line>
-
-./otTextEditor.sh addLineAt <file> <lineNo> <line>
-
-./otTextEditor.sh updateFirstWord <file> <word1> <word2>
-
-./otTextEditor.sh updateAllWords <file> <word1> <word2>
-
-./otTextEditor.sh insertWord <file> <word1> <word2> <insertWord>
-
-./otTextEditor.sh deleteLine <file> <lineNo>
-
-./otTextEditor.sh deleteLineContaining <file> <word>
 
 # 💡 Real Example
 
